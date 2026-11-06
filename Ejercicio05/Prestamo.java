@@ -1,4 +1,4 @@
-public class Prestamo {
+class Prestamo {
     private Usuario usuario;
     private Libro libro;
 
